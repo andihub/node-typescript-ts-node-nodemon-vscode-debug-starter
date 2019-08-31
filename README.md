@@ -1,5 +1,7 @@
 # node-typescript-ts-node-nodemon-vscode-debug-starter
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ### Description
 
 Simple node starter project with enabled:
