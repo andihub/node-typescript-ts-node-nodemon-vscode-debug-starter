@@ -11,6 +11,14 @@ Simple node starter project with enabled:
 - ts-node
 - debugging for Visual Studio Code incl. ts-node debugging
 
+### Getting started
+
+`git clone --depth=1 git@github.com:andihub/node-typescript-ts-node-nodemon-vscode-debug-starter.git my-awesome-project`
+
+optional:  
+`cd my-awesome-project`  
+`rm -rf .git`
+
 ### Usage
 
 - `yarn start` compile ts to `dist`folder
