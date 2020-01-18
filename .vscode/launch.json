@@ -23,7 +23,8 @@
       "internalConsoleOptions": "openOnSessionStart",
       "env": {
         "TS_NODE_IGNORE": "false"
-      }
+      },
+      "console": "integratedTerminal"
     }
   ]
 }
